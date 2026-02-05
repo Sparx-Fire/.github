@@ -10,7 +10,7 @@
   [![X](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/SHGI_SparxFire)
   [![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/people/Sparx-Holdings-Group-Inc/100093347986779/)
 
-  [![Watch a Conceptual Demo for our Smart Sprinkler System](https://www.youtube.com/watch?v=4xN8pT4CtaM/maxresdefault.jpg)](https://www.youtube.com/watch?v=4xN8pT4CtaM)
+  [![Watch a Conceptual Demo for our Smart Sprinkler System](https://img.youtube.com/vi/4xN8pT4CtaM/maxresdefault.jpg)](https://www.youtube.com/watch?v=4xN8pT4CtaM)
 
   </div>
 
@@ -94,8 +94,7 @@
 
   <div align="center">
 
-  [![Watch Sparx Build a Data Center with Revit
-  MCP](https://www.youtube.com/watch?v=weJ9I06rNxY/maxresdefault.jpg)](https://www.youtube.com/watch?v=weJ9I06rNxY)
+  [![Watch Sparx Build a Data Center with Revit MCP](https://img.youtube.com/vi/weJ9I06rNxY/maxresdefault.jpg)](https://www.youtube.com/watch?v=weJ9I06rNxY)
 
   *Click to watch us prototype a data center using
   AI-powered Revit MCP*
