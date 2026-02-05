@@ -68,8 +68,9 @@
 
   | Project | Description |
   |---------|-------------|
-  | 🏗️ **Revit MCP** | AI-powered commands to help design & build in Autodesk Revit using natural language |
-
+  | 🏗️ **[RevitMCP](https://github.com/Sparx-Fire/revit-mcp)** | MCP server connecting AI assistants to Revit |
+  | 🔌 **[Revit MCP Plugin](https://github.com/Sparx-Fire/revit-mcp-plugin)** | Revit add-in that enables communication |
+  | 🧰 **[Revit MCP CommandSet](https://github.com/Sparx-Fire/revit-mcp-commandset)** | Commands for AI to execute in Revit |
   <div align="center">
 
   ![Revit](https://img.shields.io/badge/Autodesk_Revit-0696D7?style=flat-square&logo=autodesk&logoColor=white)
