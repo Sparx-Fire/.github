@@ -65,12 +65,17 @@
   and additional tools to fit our workflow.
 
   <br clear="left"/>
-
+  
+  <div align="center">
+    
   | Project | Description |
   |---------|-------------|
   | 🏗️ **[RevitMCP](https://github.com/Sparx-Fire/revit-mcp)** | MCP server connecting AI assistants to Revit |
   | 🔌 **[Revit MCP Plugin](https://github.com/Sparx-Fire/revit-mcp-plugin)** | Revit add-in that enables communication |
   | 🧰 **[Revit MCP CommandSet](https://github.com/Sparx-Fire/revit-mcp-commandset)** | Commands for AI to execute in Revit |
+
+  </div>
+  
   <div align="center">
 
  *[revit-mcp](https://github.com/revit-mcp) for building the original project that made this possible 🙌*
