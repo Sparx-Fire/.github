@@ -78,7 +78,7 @@
   
   <div align="center">
 
- *[revit-mcp](https://github.com/revit-mcp) for building the original project that made this possible 🙌*
+ *Thanks [revit-mcp](https://github.com/revit-mcp) for building the original project that made this possible 🙌*
 
   ![Revit](https://img.shields.io/badge/Autodesk_Revit-0696D7?style=flat-square&logo=autodesk&logoColor=white)
   ![AI](https://img.shields.io/badge/AI_Powered-e64013?style=flat-square&logo=openai&logoColor=white)
