@@ -48,7 +48,8 @@
 
   ## 🛠️ Open Source & AI Tools
 
-  <img align="left" src="./assets/revit-mcp-robot.png" width="200"/>
+  <img align="left"
+  src="./assets/revit-mcp-robot.png" width="200"/>
 
   Our system is being designed to understand the
   building it protects — sprinkler locations, room
@@ -59,11 +60,11 @@
 
   **Revit MCP** (Model Context Protocol) connects an
    AI assistant directly to Autodesk Revit, letting
-  us describe what we want in plain language and
-  build it. Instead of manual modeling, we can
-  quickly generate layouts, place sprinklers, and
-  extract the spatial data our releasing panel is
-  being designed to work with.
+  you describe what you want in plain language and
+  it builds it. We forked the original [revit-mcp](h
+  ttps://github.com/revit-mcp/revit-mcp) project and
+   extended it with support for Revit 2026 and
+  additional MCP tools to fit our workflow.
 
   <br clear="left"/>
 
