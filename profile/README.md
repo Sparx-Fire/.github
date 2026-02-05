@@ -73,10 +73,13 @@
   | 🧰 **[Revit MCP CommandSet](https://github.com/Sparx-Fire/revit-mcp-commandset)** | Commands for AI to execute in Revit |
   <div align="center">
 
+ *[revit-mcp](https://github.com/revit-mcp) for building the original projects that made this possible 🙌*
+
   ![Revit](https://img.shields.io/badge/Autodesk_Revit-0696D7?style=flat-square&logo=autodesk&logoColor=white)
   ![AI](https://img.shields.io/badge/AI_Powered-e64013?style=flat-square&logo=openai&logoColor=white)
   ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+  
   </div>
 
   ---
