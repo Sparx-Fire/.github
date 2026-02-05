@@ -61,10 +61,7 @@
   **Revit MCP** (Model Context Protocol) connects an
    AI assistant directly to Autodesk Revit, letting
   you describe what you want in plain language and
-  it builds it. We forked the original [revit-mcp](h
-  ttps://github.com/revit-mcp/revit-mcp) project and
-   extended it with support for Revit 2026 and
-  additional MCP tools to fit our workflow.
+  it builds it. We forked the original [revit-mcp](https://github.com/revit-mcp/revit-mcp) project and extended it with support for Revit 2026 and additional MCP tools to fit our workflow.
 
   <br clear="left"/>
 
