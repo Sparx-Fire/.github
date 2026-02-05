@@ -4,7 +4,7 @@
 
   # Intelligent Fire Protection Technology
 
-  [![Watch a Conceptual Demo of our Smart Sprinkler System in Action](https://img.youtube.com/vi/4xN8pT4CtaM/maxresdefault.jpg)](https://www.youtube.com/watch?v=4xN8pT4CtaM)
+  <a href="https://www.youtube.com/watch?v=4xN8pT4CtaM"><img src="https://img.youtube.com/vi/4xN8pT4CtaM/maxresdefault.jpg" alt="Watch a Conceptual Demo of our Smart Sprinkler System in Action" width="500"/></a>
 
  *Watch a Conceptual Demo of our Smart Sprinkler System in Action*
 
@@ -96,7 +96,7 @@
 
   <div align="center">
 
-  [![Watch Sparx Build a Data Center with Revit MCP](https://img.youtube.com/vi/weJ9I06rNxY/maxresdefault.jpg)](https://www.youtube.com/watch?v=weJ9I06rNxY)
+  <a href="https://www.youtube.com/watch?v=weJ9I06rNxY"><img src="https://img.youtube.com/vi/weJ9I06rNxY/maxresdefault.jpg" alt="Watch Sparx Build a Data Center with Revit MCP" width="500"/></a>
 
   *Click to watch us prototype a data center using
   AI-powered Revit MCP*
