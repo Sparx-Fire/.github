@@ -4,14 +4,16 @@
 
   # Intelligent Fire Protection Technology
 
-  [![Website](https://img.shields.io/badge/Website-sparx--fire.com-e64013?style=for-the-badge&logo=firefox&logoColor=white)](https://sparx-fire.com)
+  [![Watch a Conceptual Demo of our Smart Sprinkler System in Action](https://img.youtube.com/vi/4xN8pT4CtaM/maxresdefault.jpg)](https://www.youtube.com/watch?v=4xN8pT4CtaM)
+
+ *Watch a Conceptual Demo of our Smart Sprinkler System in Action*
+
+   [![Website](https://img.shields.io/badge/Website-sparx--fire.com-e64013?style=for-the-badge&logo=firefox&logoColor=white)](https://sparx-fire.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/sparx-fire/)
   [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Sparx-Fire)
   [![X](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/SHGI_SparxFire)
   [![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/people/Sparx-Holdings-Group-Inc/100093347986779/)
-
-  [![Watch a Conceptual Demo for our Smart Sprinkler System](https://img.youtube.com/vi/4xN8pT4CtaM/maxresdefault.jpg)](https://www.youtube.com/watch?v=4xN8pT4CtaM)
-
+  
   </div>
 
   ---
