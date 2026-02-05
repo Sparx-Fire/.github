@@ -1,28 +1,16 @@
 <div align="center">
 
-  <img src="./assets/logo.png" alt="Sparx Logo"
-  width="200"/>
+  <img src="./assets/logo.png" alt="Sparx Logo" width="200"/>
 
   # Intelligent Fire Protection Technology
 
-  [![Website](https://img.shields.io/badge/Website-s
-  parx--fire.com-e64013?style=for-the-badge&logo=fir
-  efox&logoColor=white)](https://sparx-fire.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn
-  -Connect-0077B5?style=for-the-badge&logo=linkedin&
-  logoColor=white)](https://www.linkedin.com/company
-  /sparx-fire/)
-  [![YouTube](https://img.shields.io/badge/YouTube-S
-  ubscribe-FF0000?style=for-the-badge&logo=youtube&l
-  ogoColor=white)](https://www.youtube.com/@Sparx-Fi
-  re)
-  [![X](https://img.shields.io/badge/X-Follow-000000
-  ?style=for-the-badge&logo=x&logoColor=white)](http
-  s://twitter.com/SHGI_SparxFire)
-  [![Facebook](https://img.shields.io/badge/Facebook
-  -Follow-1877F2?style=for-the-badge&logo=facebook&l
-  ogoColor=white)](https://www.facebook.com/people/S
-  parx-Holdings-Group-Inc/100093347986779/)
+  [![Website](https://img.shields.io/badge/Website-sparx--fire.com-e64013?style=for-the-badge&logo=firefox&logoColor=white)](https://sparx-fire.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/sparx-fire/)
+  [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Sparx-Fire)
+  [![X](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/SHGI_SparxFire)
+  [![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/people/Sparx-Holdings-Group-Inc/100093347986779/)
+
+  [![Watch a Conceptual Demo for our Smart Sprinkler System](https://www.youtube.com/watch?v=4xN8pT4CtaM/maxresdefault.jpg)](https://www.youtube.com/watch?v=4xN8pT4CtaM)
 
   </div>
 
@@ -30,10 +18,8 @@
 
   ## 🚀 What We're Building
 
-  <img align="right"
-  src="./assets/hub-touchscreen.jpg" width="250"/>
-  <img align="right" src="./assets/sensing-unit.jpg"
-   width="250"/>
+  <img align="right" src="./assets/hub-touchscreen.jpg" width="250"/>
+  <img align="right" src="./assets/sensing-unit.jpg" width="250"/>
 
   We're developing **intelligent fire protection
   systems** that combine sensors, software, and
@@ -60,8 +46,7 @@
 
   ## 🛠️ Open Source & AI Tools
 
-  <img align="left"
-  src="./assets/revit-mcp-robot.png" width="200"/>
+  <img align="left" src="./assets/revit-mcp-robot.png" width="200"/>
 
   Our system is being designed to understand the
   building it protects — sprinkler locations, room
@@ -82,19 +67,13 @@
 
   | Project | Description |
   |---------|-------------|
-  | 🏗️ **Revit MCP** | AI-powered commands to help
-  design & build in Autodesk Revit using natural
-  language |
+  | 🏗️ **Revit MCP** | AI-powered commands to help design & build in Autodesk Revit using natural language |
 
   <div align="center">
 
-  ![Revit](https://img.shields.io/badge/Autodesk_Rev
-  it-0696D7?style=flat-square&logo=autodesk&logoColo
-  r=white)
-  ![AI](https://img.shields.io/badge/AI_Powered-e640
-  13?style=flat-square&logo=openai&logoColor=white)
-  ![C#](https://img.shields.io/badge/C%23-239120?sty
-  le=flat-square&logo=csharp&logoColor=white)
+  ![Revit](https://img.shields.io/badge/Autodesk_Revit-0696D7?style=flat-square&logo=autodesk&logoColor=white)
+  ![AI](https://img.shields.io/badge/AI_Powered-e64013?style=flat-square&logo=openai&logoColor=white)
+  ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 
   </div>
 
@@ -116,9 +95,7 @@
   <div align="center">
 
   [![Watch Sparx Build a Data Center with Revit
-  MCP](https://img.youtube.com/vi/weJ9I06rNxY/maxres
-  default.jpg)](https://www.youtube.com/watch?v=weJ9
-  I06rNxY)
+  MCP](https://www.youtube.com/watch?v=weJ9I06rNxY/maxresdefault.jpg)](https://www.youtube.com/watch?v=weJ9I06rNxY)
 
   *Click to watch us prototype a data center using
   AI-powered Revit MCP*
