@@ -58,11 +58,11 @@
   to generate building models fast and iterate
   without friction.
 
-  **Revit MCP** (Model Context Protocol) connects an
+  **mcp-servers-for-revit** (Model Context Protocol) connects an
    AI assistant directly to Autodesk Revit, letting
   you describe what you want in plain language and
   it builds it. We forked the original [revit-mcp](https://github.com/mcp-servers-for-revit/revit-mcp), [plugin](https://github.com/mcp-servers-for-revit/revit-mcp-plugin), and [commandset](https://github.com/mcp-servers-for-revit/revit-mcp-commandset) and extended them with Revit 2026 support
-  and additional tools to fit our workflow.
+  and additional tools to fit our workflow. We also consolidated the three repos into a single repo to streamline the installation process and getting started with mcp-servers-for-revit!
 
   <br clear="left"/>
   
@@ -70,9 +70,7 @@
     
   | Project | Description |
   |---------|-------------|
-  | 🏗️ **[RevitMCP](https://github.com/Sparx-Fire/revit-mcp)** | MCP server connecting AI assistants to Revit |
-  | 🔌 **[Revit MCP Plugin](https://github.com/Sparx-Fire/revit-mcp-plugin)** | Revit add-in that enables communication |
-  | 🧰 **[Revit MCP CommandSet](https://github.com/Sparx-Fire/revit-mcp-commandset)** | Commands for AI to execute in Revit |
+  | 🏗️ **[mcp-servers-for-revit](https://github.com/Sparx-Fire/mcp-servers-for-revit)** | MCP server connecting AI assistants to Revit |
 
   </div>
   
@@ -107,7 +105,7 @@
   <a href="https://www.youtube.com/watch?v=weJ9I06rNxY"><img src="https://img.youtube.com/vi/weJ9I06rNxY/maxresdefault.jpg" alt="Watch Sparx Build a Data Center with Revit MCP" width="500"/></a>
 
   *Click to watch us prototype a data center using
-  AI-powered Revit MCP*
+  AI-powered MCP Servers for Revit*
 
   </div>
 
